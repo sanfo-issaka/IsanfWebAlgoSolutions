@@ -34,6 +34,12 @@
 		    <version>5.11.0-M2</version>
 		    <scope>test</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/p2.eclipse-plugin/org.mockito.mockito-all >
+		<dependency>
+		    <groupId>p2.eclipse-plugin</groupId>
+		    <artifactId>org.mockito.mockito-all</artifactId>
+		    <version>1.9.0</version>
+		</dependency>-->
 
 	</dependencies>
 
